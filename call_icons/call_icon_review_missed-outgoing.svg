@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="160.07491"
+   height="144.26288"
+   viewBox="0 0 160.07491 144.26288"
+   version="1.1"
+   id="svg27"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style1">
+    .page-bg { fill: #f4f6f8; }
+    .card { fill: #ffffff; stroke: #dfe4ea; stroke-width: 1; }
+    .title { fill: #17202a; font: 700 18px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif; }
+    .label { fill: #5f6874; font: 500 12px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif; }
+    .phone { fill: #111111; }
+    .green { fill: #1f8a57; }
+    .red { fill: #c6413d; }
+    .amber { fill: #a66a10; }
+  </style>
+  <defs
+     id="defs2">
+    <path
+       id="phone"
+       d="m 6.06,4.1 c -0.67,0 -1.2,0.54 -1.2,1.2 v 1.07 c 0,6.95 5.63,12.58 12.58,12.58 h 1.07 c 0.67,0 1.2,-0.54 1.2,-1.2 V 15.3 c 0,-0.55 -0.38,-1.04 -0.92,-1.16 l -2.64,-0.6 c -0.47,-0.11 -0.96,0.07 -1.26,0.45 l -1.05,1.36 A 10.5,10.5 0 0 1 8.44,9.95 L 9.8,8.9 C 10.18,8.6 10.36,8.11 10.25,7.64 L 9.65,5 A 1.2,1.2 0 0 0 8.49,4.08 H 6.06 Z" />
+  </defs>
+  <g
+     transform="matrix(-8,0,0,8,176.17358,-33.870518)"
+     id="g3-23-4">
+    <use
+       href="#phone"
+       class="phone"
+       id="use2-9-3"
+       style="fill:#111111"
+       transform="rotate(135,10.533432,15.374672)" />
+    <path
+       d="M 14.11868,12.198769 8.446631,6.5569525 9.8571625,5.1390668 4.5516055,4.2338148 5.4849297,9.5348551 6.8951618,8.1167031 12.566966,13.758536 Z"
+       id="path28-9-6"
+       style="fill:#c6413d;fill-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#c6413d;stroke-width:2;stroke-miterlimit:66.3;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.885906,5.7694982 -8.95729,7.2045978 z"
+       id="path3-5" />
+  </g>
+</svg>

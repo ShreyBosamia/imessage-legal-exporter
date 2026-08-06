@@ -1,0 +1,26 @@
+{
+  "name": "imessage-legal-exporter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local evidence-oriented PDF and metadata exports from copied Apple Messages and Call History databases",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyBosamia/imessage-legal-exporter.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "type": "module",
+  "scripts": {
+    "render": "node render_pdf.mjs",
+    "install-browsers": "playwright install chromium",
+    "test": "python3 -m unittest discover -s tests"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1"
+  },
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}
